@@ -1,4 +1,4 @@
-[![Header](https://imgur.com/9TssEJ2.png "Header")](https://some-url.dev/)
+[![Header](https://imgur.com/0Q1LsCe.png "Header")](https://some-url.dev/)
 
 - 👋 Hi, I’m @marwankous.
 - 👀 I’m interested in a remote full-time/part-time job.
